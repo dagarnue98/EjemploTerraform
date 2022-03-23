@@ -4,7 +4,7 @@ terraform {
     container_name       = "environment-states"
     key                  = "vs-enterprise/staging/global/resource_groups/terraform.tfstate"
     resource_group_name  = "rg-terragrunt-example-001"
-    storage_account_name = "stterragruntexample001"
-    subscription_id      = "938cf79f-5038-404c-acad-239711618327"
+    storage_account_name = "stterragruntexample002"
+    subscription_id      = "872fa591-73f6-48e4-a857-8c155101cd34"
   }
 }
